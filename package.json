@@ -1,4 +1,5 @@
 {
   "name": "mbedtls",
-  "description": "Lightweight multiplatform SSL library from ARM"
+  "description": "Lightweight multiplatform SSL library from ARM",
+  "version":"3.0.0"
 }
